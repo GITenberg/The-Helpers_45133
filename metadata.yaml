@@ -1,0 +1,26 @@
+_repo: The-Helpers_45133
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45133-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+description: ''
+gutenberg_issued: '2014-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Colorado -- Fiction'
+title: The Helpers
+url: http://www.gutenberg.org/ebooks/45133
